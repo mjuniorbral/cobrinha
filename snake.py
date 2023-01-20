@@ -2,7 +2,7 @@ import pygame
 from pygame.locals import *
 import random
 
-dificuldade = 1
+dificuldade = 2
 tamanhoMaximo = 800
 width = tamanhoMaximo
 height = tamanhoMaximo
